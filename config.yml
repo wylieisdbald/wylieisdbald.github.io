@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: username/repo   # Path to your GitHub repository
+  repo: wylieisdbald/wylieisdbald.github.io   # Path to your GitHub repository
   branch: main          # Branch to update (optional; defaults to main)
 
 # This line should *not* be indented
