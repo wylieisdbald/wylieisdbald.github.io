@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>wylieisdbald</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=225" rel="self" type="application/rss+xml" />
+	<title>bald &#8211; wylieisdbald</title>
+	<atom:link href="http://localhost/tag/bald/feed/?simply_static_page=255" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 06 Aug 2023 23:48:37 +0000</lastBuildDate>
