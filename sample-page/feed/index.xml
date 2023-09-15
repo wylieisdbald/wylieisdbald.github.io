@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: Our BALD Leader	</title>
-	<atom:link href="http://localhost/sample-page/feed/?simply_static_page=246" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://localhost/sample-page/feed/?simply_static_page=292" rel="self" type="application/rss+xml" />
+	<link>/sample-page/</link>
 	<description></description>
 	<lastBuildDate>Sun, 06 Aug 2023 23:24:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>

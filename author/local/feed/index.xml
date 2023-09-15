@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>wylieisdbald -</title>
-	<atom:link href="http://localhost/tag/baldness/feed/?simply_static_page=305" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<title>local, Author at wylieisdbald</title>
+	<atom:link href="http://localhost/author/local/feed/?simply_static_page=309" rel="self" type="application/rss+xml" />
+	<link>/author/local/</link>
 	<description></description>
 	<lastBuildDate>Fri, 15 Sep 2023 01:31:30 +0000</lastBuildDate>
 	<language>en-US</language>
